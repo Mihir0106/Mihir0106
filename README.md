@@ -2,15 +2,31 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🎓 Graduate from NIT Hamirpur  
+## 👨🏻‍💻 About Me
 
-- 💼 Previously **Backend Engineer at MPL (Mobile Premier League)**  
+- 🎓 Graduate from **NIT Hamirpur** with a strong foundation in Computer Science
 
-- 🚀 Interested in **AI**, **Backend Engineering**, and scalable system design  
+- 💼 Previously **Backend Engineer at MPL (Mobile Premier League)**, building scalable gaming platforms
 
-- ⚡ Competitive Programming enthusiast  
+- 🚀 Passionate about **AI**, **Backend Engineering**, and **distributed systems** design
+
+- 🏗️ Built **HexFeed** - A location-based social media platform with H3 spatial indexing, real-time WebSocket updates, and Kafka event streaming
+
+- ⚡ **Competitive Programming** enthusiast with active participation on CodeChef
+
+- 🔧 Experienced in building **microservices**, **RESTful APIs**, and **event-driven architectures**
+
+- ☁️ Hands-on experience with **AWS** (EC2, S3, SSM) and **cloud deployment** strategies
+
+- 📊 Strong expertise in **PostgreSQL**, **Redis caching**, and **database optimization**
+
+- 🔐 Implemented **JWT authentication**, **RBAC**, and **rate limiting** systems
+
+- 🧪 Advocate for **test-driven development** with 80%+ code coverage
 
 - 👨‍💻 CodeChef: [mj_mihir](https://www.codechef.com/users/mj_mihir)
+
+- 📚 Always learning and exploring new technologies in backend engineering
 
 <br>
 
