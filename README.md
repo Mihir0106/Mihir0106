@@ -125,6 +125,4 @@
 
 ## 🌐 Connect with Me
 
-[<img width="40px" height="40px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">](https://www.linkedin.com/in/mihir-jain-92b428197/)
-
-[<img width="40px" height="40px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg">](mailto:mjmihir9617@gmail.com)
+[<img width="40px" height="40px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">](https://www.linkedin.com/in/mihir-jain-92b428197/) [<img width="40px" height="40px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg">](mailto:mjmihir9617@gmail.com)
