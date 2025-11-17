@@ -28,13 +28,6 @@
 
 - 📚 Always learning and exploring new technologies in backend engineering
 
-<br>
-
-<p align="center" width="100%">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Mihir0106&show_icons=true&theme=radical">
-
-</p>
 
 ## 🛠 Tech Stack
 
