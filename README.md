@@ -2,8 +2,6 @@
 
 ## 👨🏻‍💻 About Me
 
-## 👨🏻‍💻 About Me
-
 - 🎓 Graduate from **NIT Hamirpur** with a strong foundation in Computer Science
 
 - 💼 Previously **Backend Engineer at MPL (Mobile Premier League)**, building scalable gaming platforms
